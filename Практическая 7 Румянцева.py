@@ -21,7 +21,7 @@ else:
 
 coding utf-8
 задача №3
-g = int(input "Введите натуральное чиссло" ))
+g = int(input "Введите натуральное чиссло")
 if g/4
     print ("YES")
 else:
